@@ -1,6 +1,7 @@
 #### Screenshot
 
-[add screenshots of your problem]
+![Sans titre-1](https://user-images.githubusercontent.com/76482809/115745046-5e25fd00-a393-11eb-9b51-886c2a570691.jpg)
+
 
 #### Files
 
@@ -10,19 +11,19 @@ help assisting you with your problem.
 
 #### Problem description
 
-[this should explain **why** the current behavior is a problem and why the expected output is a better solution.]
+Hello,
+
+I'm trying to do the beginner tutorial but I get a black screen after I press "Convert image". Do you have an idea?
+
+Sincerely 
 
 #### Expected Output
-What should have been expected? You can hide large error messages within  ``<details></details>`` tags, e.g.
 
-<details>
-very long error message
-</details>
+I should see the separate columns 
 
 #### Environment information
 
-<details>
-<summary>psyplot -aV</summary>
+Windows 10
 
 # Paste the output of the command ``psyplot -aV`` (ran from the command line)
 
